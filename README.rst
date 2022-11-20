@@ -1,8 +1,3 @@
-.. image:: https://tiebapic.baidu.com/forum/pic/item/4e4a20a4462309f707621658650e0cf3d7cad66f.jpg
-    :alt: Build passing
-.. image:: https://tiebapic.baidu.com/forum/pic/item/d1a20cf431adcbefc104ee4cbbaf2edda3cc9f4c.jpg
-    :alt: 100% test coverage
-
 *This is an extended version of package PyWireframe, aiming at using fewer code to render 3D scenes. Some bugs from the old version have been fixed.*
 
 *Besides, we added some new features such as drawing polygon and FPS displaying.*
@@ -13,7 +8,15 @@ PyWireframe是一个使用Python turtle绘制3D图形的库, 使用简单的代码实现复杂的3D场景
 
 此外，我们还添加了一些新功能，如绘制多边形和FPS显示等。
 
-以下为PyWireframe原版的英文说明: 
+运行效果:
+
+.. image:: https://img-blog.csdnimg.cn/6fe4d0db8676481ea0876e2414114ef7.gif
+	:alt: Preview1
+
+.. image:: https://img-blog.csdnimg.cn/928af47729d247bb8c63b4f637a33a5f.gif
+	:alt: Preview2
+
+以下为PyWireframe原版的部分英文说明: 
 
 PyWireframe-extended V0.5
 =========================
@@ -42,10 +45,6 @@ To render all existing objects, use `refresh()`.
 To exit PyWireframe, use `exit()`.
 
 You can also stop PyWireframe from printing to the console with `printMode(mode)`. More info can be found on the [readthedocs.io](https://pywireframe.readthedocs.io/en/latest/).
-
-.. image:: https://tiebapic.baidu.com/forum/pic/item/21a4462309f79052f53ccb741bf3d7ca7bcbd55d.jpg
-    :alt: Preview
-
 
 上传者 Uploader:
 
